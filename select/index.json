@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シーグラス",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-11T12:28:45.938885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シーグラス",
+      "artist": "ストレイテナー",
+      "has_synced": false,
+      "path": "select/01_シーグラス_ストレイテナー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シーグラス (2018 Remastered)",
+      "artist": "ストレイテナー",
+      "has_synced": true,
+      "path": "select/02_シーグラス_(2018_Remastered)_ストレイテナー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シーグラス",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/03_シーグラス_Straightener.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーグラス",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_シーグラス_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
